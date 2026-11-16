@@ -1,0 +1,17 @@
+{
+    "homepage": "https://github.com/VenkatKwest/review-flow-r11",
+    "maintainers": [
+        {
+            "github": "VenkatKwest",
+            "github_user_id": 68438061,
+            "name": "Contributor test account"
+        }
+    ],
+    "repository": [
+        "github:VenkatKwest/review-flow-r11"
+    ],
+    "versions": [
+        "1.0.0"
+    ],
+    "yanked_versions": {}
+}
